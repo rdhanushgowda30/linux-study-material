@@ -1,2 +1,10 @@
 what is linux?
-linux is a open source operating system
+linux is a open source operating system like unix ,linux based operating system combines 
+the linux kernel with system utilities, libraries, package managers and other software
+example:ubuntu,redhat,debian,fedaro,amazon linux
+
+what is OS ?
+An operating system (OS) is software that acts as an interface between applications and
+ computer hardware.
+
+
